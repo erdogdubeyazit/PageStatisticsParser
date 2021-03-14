@@ -10,12 +10,12 @@
 
 ## Key points
 
-- Small 'lookup' data BROADCAST joined
+- Small 'lookup' data BROADCAST joined.
 - Memory partition by :"USER_ID","WEB_PAGEID" and date parts like year, month, day.  
-- Data cached before aggregation
-- Disk partition by "USER_ID"
-- LOG4J for logging
-- unitttest for testin
+- Data cached before aggregation.
+- Disk partition by "USER_ID".
+- LOG4J for logging.
+- unitttest for testing.
 
 ## Running the application
 Example usage : 
