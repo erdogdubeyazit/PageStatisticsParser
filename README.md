@@ -16,6 +16,7 @@
 - Disk partition by "USER_ID".
 - LOG4J for logging.
 - unitttest for testing.
+- python3
 
 ## Running the application
 Example usage : 
